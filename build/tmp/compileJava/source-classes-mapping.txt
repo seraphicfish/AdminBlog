@@ -1,0 +1,21 @@
+configuration/BlogAdminConfiguration.java
+ configuration.BlogAdminConfiguration
+controller/BlogAdminController.java
+ controller.BlogAdminController
+service/BlogAdminClientService.java
+ service.BlogAdminClientService
+ service.BlogAdminClientService$1
+ service.BlogAdminClientService$2
+BlogAdminApplication.java
+ BlogAdminApplication
+domain/UserPost.java
+ domain.UserPost
+service/BlogAdminService.java
+ service.BlogAdminService
+domain/Post.java
+ domain.Post
+domain/User.java
+ domain.User
+ domain.User$Address
+ domain.User$Company
+ domain.User$Geo
